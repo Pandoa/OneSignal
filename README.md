@@ -1,11 +1,11 @@
 
-# OneSignal Features
+# OneSignal - Features
 
 >  Native OneSignal integration for Android and iOS.
 
 
 
-> Get started by reading the [installation guide](/installation) or with the [Blueprint Examples](/components).
+> Get started by reading the [get started guide](/getstarted).
 
 <div class="centered">
 </div>
