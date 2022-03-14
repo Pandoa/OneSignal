@@ -4,18 +4,11 @@
   - [Build for UE5](/ue5)
   
 - Push Notifications
-  - [Setup](/pushsetup)
-  - [Advanced](/pushadvanced)
+  - [Quick Start](/pushsetup)
 
 - In-App Messaging
-  - [Setup](/pushsetup)
+  - [Quick Start](/inappsetup)
 
-- Email
-  - [Setup](/emailsetup)
-
-- SMS
-  - [Setup](/smssetup)
-  
 - Support
   - [Troubleshooting](troubleshoting.md)
   - [Support](support.md)

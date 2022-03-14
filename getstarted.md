@@ -268,10 +268,22 @@ End Object
 </div>
 </div>
 
-And that's it, your application is ready.
+And that's it, your application is ready. Users will appear as you launch the app under `Audience` > `All Users`.
 
 
+## Add a Test User <span class="duration">&lt; 2 minutes</span>
+It is recommended to add your test device as a test user to easily test push notifications or in-app messages. To add a user as a test user:
 
+1. Make sure you followed the integration steps above for your platform.
+2. Run your application on a device once to see your device appear under `Audience` > `All Users`.
+3. Click on `Options` > `Add to Test Users`.
+
+
+<div class="centered">
+<img src="_images/AddTestUser.png">
+</div>
+
+!> If you uninstall and reinstall the app, a new user might be created for a specific device. If it happens, you have to follow this procedure **again**.
 
 
 <script>
