@@ -25,6 +25,6 @@ that's probably the reason of the error.
 
 
 ## Contact
-If you need help, have a feature request or experience troubles, please contact us at [pandores.marketplace@gmail.com](mailto:pandores.marketplace+FirebaseFeatures@gmail.com?subject=Firebase%20Features%20-%20).
+If you need help, have a feature request or experience troubles, please contact us at [pandores.marketplace@gmail.com](mailto:pandores.marketplace+OneSignal@gmail.com?subject=OneSignal%20Features%20-%20).
 
 !> Please, include logs in your email.
